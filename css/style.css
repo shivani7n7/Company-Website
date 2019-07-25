@@ -346,7 +346,7 @@ textarea:-ms-input-placeholder {
 	-o-transition: all .7s ease 0s;
 	-ms-transition: all .7s ease 0s;
 	position: absolute;
-	left: 30%;
+	left: 20%;
 	width: 50px;
 	top: -6%;
 }
